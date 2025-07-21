@@ -1,0 +1,10 @@
+.portfolio-box {
+  min-height: 150px;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+.portfolio-box:hover {
+  background-color: #212529 !important;
+  color: #fff !important;
+  transform: translateY(-5px);
+}

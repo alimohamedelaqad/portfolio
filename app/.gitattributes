@@ -1,0 +1,2 @@
+task[[:space:]]2 filter=lfs diff=lfs merge=lfs -text
+Task[[:space:]]2 filter=lfs diff=lfs merge=lfs -text
